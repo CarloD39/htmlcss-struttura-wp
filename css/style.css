@@ -8,12 +8,11 @@
     content: "";     
     display: table;
     clear: both;
-
 }
 
 .fl{
     float: left;
-    margin: 15px 0 10px 0;
+    height: 280px;
 }
 
 
@@ -35,7 +34,7 @@ nav{
 }
 
 
-.picture{
+.big{
     height: 250px;
     margin-top: 10px;
     background:peru;
@@ -44,28 +43,29 @@ nav{
 .box{
     margin-top: 20px;
     background:plum;
-}
+} 
 
 .title{
     height: 50px;
     background: lightseagreen;
 }
 
+.section-content {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 
 .small-1{
-    height: 280px;
     width: 200px;
     padding-right: 5px; 
 }
 
 .central{
-    height: 280px;
     width: 400px;
     padding: 0 5px 0 5px;
 }
 
 .small-2{
-    height: 280px;
     width: 200px;
     padding-left: 5px;
 }
